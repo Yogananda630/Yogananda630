@@ -113,10 +113,10 @@ https://github.com/Yogananda630/aws-cloud-security-monitor
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=santhoshtalari0&show_icons=true&theme=github_dark&hide_border=true&title_color=00c853&icon_color=00c853&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshtalari0&layout=compact&theme=github_dark&hide_border=true&title_color=00c853&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogananda630&show_icons=true&theme=github_dark&hide_border=true&title_color=00c853&icon_color=00c853&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda630&layout=compact&theme=github_dark&hide_border=true&title_color=00c853&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshtalari0&theme=github-dark-blue&hide_border=true&ring=00c853&fire=00c853&currStreakLabel=00c853" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogananda630&theme=github-dark-blue&hide_border=true&ring=00c853&fire=00c853&currStreakLabel=00c853" />
 
 </div>
 
@@ -124,16 +124,16 @@ https://github.com/Yogananda630/aws-cloud-security-monitor
 
 ## 📝 Writing and Teaching
 
-- 🎥 YouTube: https://www.youtube.com/channel/UCJmKZ5GaiUlGuQCa9AiGNEg, AI, coding and career roadmaps in Tenglish
-- ✍️ Build-in-public updates on LinkedIn: www.linkedin.com/in/santhosh-kumar-talari-0a5350374 
+
+- ✍️ Build-in-public updates on LinkedIn: https://www.linkedin.com/in/yogananda-yampalakula
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm looking for **AI Engineer / GenAI Engineer** roles and internships. If you're building with LLMs, RAG or agents, I'd love to talk.
+I'm looking for **AI Engineer / GenAI Engineer DevSecOps CloudSecurity** roles and internships. If you're building with LLMs, RAG or agents, I'd love to talk.
 
-📧 **santhoshkumartalari05@gmail.com**
+📧 **yogananda442@gmail.com**
 
 ---
 
