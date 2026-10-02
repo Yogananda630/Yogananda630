@@ -2,10 +2,6 @@
 
 <img src="./assets/yogananda-header.gif" width="100%"/>
 
-<br>
-
-### 🔐 AI Engineering | DevSecOps | Cloud Security | AWS | CI/CD
-
 </div>
 
 ---
