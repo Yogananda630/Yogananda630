@@ -88,4 +88,44 @@ I’m still learning and improving every day, and my goal is to build **practica
 </p>
 
 ---
+# 🚀 Featured Projects
 
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| 🔐 **Secure DevSecOps Pipeline** | Secures the application delivery process with automated code scanning, secret detection, container security, testing, and CI/CD security gates. | GitHub Actions, Semgrep, Gitleaks, Trivy, Docker, GHCR | 🟢 Completed |
+| ☁️ **AWS Cloud Security Monitor** | Monitors AWS activity, detects selected security events, analyzes them, stores security findings, and sends alerts. | AWS CloudTrail, EventBridge, Lambda, DynamoDB, CloudWatch, SNS, Python | 🟢 Completed |
+
+---
+
+## 🔐 Secure DevSecOps Pipeline
+
+A practical DevSecOps project focused on integrating security into the software development lifecycle.
+
+**Highlights:**
+
+- 🔎 SAST with Semgrep
+- 🔑 Secret detection with Gitleaks
+- 🛡️ Container vulnerability scanning with Trivy
+- ⚙️ GitHub Actions CI/CD
+- 🐳 Docker-based application workflow
+- 📦 GitHub Container Registry
+
+🔗 **[View Repository →](https://github.com/Yogananda630/secure-devsecops-pipeline)**
+
+---
+
+## ☁️ AWS Cloud Security Monitor
+
+A practical AWS security monitoring project focused on detecting and tracking cloud activity through an event-driven security workflow.
+
+**Highlights:**
+
+- 📋 AWS activity monitoring with CloudTrail
+- ⚡ Event detection with EventBridge
+- 🧠 Event analysis using Lambda
+- 💾 Security event storage with DynamoDB
+- 📊 Monitoring with CloudWatch
+- 📧 Security alerts with SNS
+- 🖥️ Security dashboard
+
+🔗 **[View Repository →](https://github.com/Yogananda630/aws-cloud-security-monitor)**
