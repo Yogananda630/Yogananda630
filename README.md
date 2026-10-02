@@ -1,12 +1,72 @@
-# 💫 About Me:
-👋 Hi, I'm Yogananda Yampalakula<br>🚀 Aspiring DevSecOps Engineer | Docker | Linux | Git/GitHub | AWS | cloud computing(CICD pipelines) <br><br>I am an aspiring DevSecOps Engineer with a strong foundation in Linux, Git/GitHub, and Docker.<br>Currently, I am learning AWS and building hands-on projects to gain real-world experience in cloud and DevOps practices.<br><br>Currently Learning<br>AWS (EC2, VPC, EKS, ECS, S3, IAM, RDS, Lambda, Route 53, WAF)<br>Cloud Architecture Basics<br>DevOps & CI/CD Concepts<br>🧰 Skills & Technologies<br>🐧 Operating System<br>Linux (Ubuntu)<br>🔧 Version Control<br>Git<br>GitHub<br>🐳 Containers<br>Docker<br>☁️ Cloud (Learning)<br>AWS Core Services<br>🎯 Goal<br>To become a skilled DevOps Engineer by gaining hands-on experience in AWS, Kubernetes, CI/CD, and Infrastructure as Code.<br><br>📫 Contact<br>📧 Email: yogananda442@gmail.com<br>💼 LinkedIn: Yampalakula Yogananda
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Yogananda630&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Yogananda630&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yogananda630&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="./assets/yogananda-header.gif" width="100%"/>
+
+</div>
+
+# 👋 About Me
+
+Hi, I'm **Yogananda Yampalakula**.
+
+🔐 **Aspiring DevSecOps & Cloud Security Engineer**
+
+I’m focused on building practical security solutions using **AWS, CI/CD, containers, Linux, and security automation**.
+
+I enjoy learning by building hands-on projects that combine **application security, cloud security, monitoring, and DevOps practices**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Yogananda630&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I Focus On
+
+- 🔐 DevSecOps & Application Security
+- ☁️ AWS Cloud Security
+- 🔄 CI/CD & Security Automation
+- 🐳 Docker & Container Security
+- 🐧 Linux & System Administration
+- 📊 Cloud Monitoring & Security Detection
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Secure DevSecOps Pipeline
+
+A security-focused CI/CD pipeline designed to identify security issues before application delivery.
+
+**Security checks include:**
+
+- 🔎 Semgrep — SAST
+- 🔑 Gitleaks — Secret Detection
+- 🛡️ Trivy — Container Vulnerability Scanning
+- 🧪 Automated Application Testing
+- 🐳 Docker Image Building
+- ⚙️ GitHub Actions Security Gates
+- 📦 GitHub Container Registry (GHCR)
+
+🔗 **Repository:**  
+https://github.com/Yogananda630/secure-devsecops-pipeline
+
+---
+
+### ☁️ AWS Cloud Security Monitor
+
+An event-driven AWS security monitoring system for detecting and tracking cloud activity.
+
+**Architecture:**
+
+```text
+AWS Activity
+     ↓
+CloudTrail
+     ↓
+EventBridge
+     ↓
+Lambda
+     ↓
+┌──────────┬────────────┬─────────┐
+↓          ↓            ↓
+DynamoDB  CloudWatch    SNS
+                         ↓
+                    Email Alerts
+     ↓
+Security Dashboard
