@@ -9,19 +9,27 @@
 
 ## 👋 About Me
 
-I'm a 3rd-year **B.Tech CSE** student building **practical GenAI and agentic AI systems**, meaning projects that are deployed, evaluated and secured, not just notebooks.
+I’m a **B.Tech CSE student** with an interest in **AI Engineering, GenAI, DevSecOps,and Cloud Security**.
 
-- 🔭 Building: **FLOW OS — Personal Web OS | Personal Productivity Command Center**
-- 🧠 Focus: **RAG systems, AI agents, LLM evaluation, deployment**
-- 🔐 Edge: a **cybersecurity background**, applied to **AI security** (prompt injection, PII handling, OWASP Top 10 for LLMs)
-- 🎥 I teach AI and career skills to students on YouTube: **Devloveper Sunny**
-- 📫 Open to **AI Engineer / GenAI Engineer / ML Engineer** roles and internships
+I like learning new technologies by **actually working on projects** rather than only studying theory. I’ve been working with **Git, GitHub, Docker, GitHub Actions, AWS, CI/CD, and security tools**, and I’m currently exploring **Generative AI and **.
+
+I’m still learning and improving every day, and my goal is to build **practical projects** and grow into a strong engineer in **AI, Cloud, and DevSecOps**.
+
+-  **Interest:** AI Engineering, Generative AI & LLMs
+-  **Focus:** DevSecOps, Application Security & Cloud Security
+-  **Cloud:** AWS
+-  **Containers:** Docker
+-  **CI/CD:** GitHub Actions
+-  **Security:** SAST, Secret Detection, Container Security & Cloud Monitoring
+-  **Systems:** Linux
+-  **Approach:** Learn → Build → Test → Document → Improve
+-  Open to **AI Engineer / GenAI Engineer / ML Engineer** roles and internships
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-<h3 align="center">💻 Languages and Tools</h3>
+<h3 align="center"> Languages and Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -29,7 +37,7 @@ I'm a 3rd-year **B.Tech CSE** student building **practical GenAI and agentic AI 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h3 align="center">🧠 AI and Machine Learning</h3>
+<h3 align="center"> AI and Machine Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -37,7 +45,7 @@ I'm a 3rd-year **B.Tech CSE** student building **practical GenAI and agentic AI 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
-<h3 align="center">🚀 Backend, Cloud and MLOps</h3>
+<h3 align="center"> Backend, Cloud and MLOps</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -47,19 +55,49 @@ I'm a 3rd-year **B.Tech CSE** student building **practical GenAI and agentic AI 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| 🔎 **Production RAG System** | Answers questions from documents with retrieval, reranking and a hallucination-evaluation script | Python, FastAPI, FAISS, Docker | 🟡 In Progress |
-| 🤖 **Multi-Agent Research Assistant** | Plans, searches, summarizes and compiles reports using tool-calling | LangGraph, Python | 🟡 In Progress |
-| 🛡️ **Secure LLM App** | Prompt-injection defence and PII handling, mapped to OWASP Top 10 for LLMs | Python, FastAPI | 🟡 In Progress |
-| 📈 **End-to-End MLOps Pipeline** | Training, MLflow tracking, CI/CD deployment and monitoring | scikit-learn, MLflow, GitHub Actions | ⚪ Planned |
-
-
+|  **Secure DevSecOps Pipeline** | Secures the application delivery workflow with automated testing, SAST, secret detection and container vulnerability scanning. | GitHub Actions, Semgrep, Gitleaks, Trivy, Docker, GHCR | 🟢 Completed |
+| ☁️ **AWS Cloud Security Monitor** | Monitors AWS activity, detects selected security events, analyzes findings and sends security alerts. | CloudTrail, EventBridge, Lambda, DynamoDB, CloudWatch, SNS, Python | 🟢 Completed |
 
 ---
 
+##  Secure DevSecOps Pipeline
+
+A practical DevSecOps project focused on integrating security into the software development and delivery workflow.
+
+**Key capabilities:**
+
+- 🔎 **Semgrep** — Static Application Security Testing
+- 🔑 **Gitleaks** — Secret Detection
+- 🛡️ **Trivy** — Container Vulnerability Scanning
+- 🧪 Automated Application Testing
+- ⚙️ **GitHub Actions** CI/CD
+- 🐳 Docker Image Building
+- 📦 GitHub Container Registry
+
+🔗 **Repository:**  
+https://github.com/Yogananda630/secure-devsecops-pipeline
+
+---
+## ☁️ AWS Cloud Security Monitor
+
+A practical AWS security monitoring project focused on detecting and tracking cloud activity through an event-driven security workflow.
+
+**Key capabilities:**
+
+- 📋 **CloudTrail** — AWS activity logging
+- ⚡ **EventBridge** — Event-driven detection
+- 🧠 **Lambda** — Event analysis and classification
+- 💾 **DynamoDB** — Security event storage
+- 📊 **CloudWatch** — Logs and monitoring
+- 📧 **SNS** — Security alerts
+- 🖥️ **Security Dashboard** — Event tracking
+---
+🔗 **Repository:**  
+https://github.com/Yogananda630/aws-cloud-security-monitor
 ## 🎯 Currently Learning
 
 - 🧪 LLM evaluation and guardrails
