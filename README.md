@@ -84,28 +84,4 @@ I learn by **building real projects, testing them, documenting the results, and 
 
 ---
 
-## 🔐 Secure DevSecOps Pipeline
 
-A security-focused CI/CD pipeline that integrates security checks directly into the development workflow.
-
-### 🔎 Security Pipeline
-
-```text
-Developer
-    ↓
-GitHub
-    ↓
-GitHub Actions
-    ↓
-┌───────────────┬───────────────┬───────────────┐
-│    Semgrep    │    Gitleaks   │     Tests     │
-│     SAST      │    Secrets    │               │
-└───────────────┴───────────────┴───────────────┘
-                    ↓
-              Docker Build
-                    ↓
-                 Trivy
-                    ↓
-             Security Gate
-                    ↓
-                  GHCR
